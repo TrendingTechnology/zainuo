@@ -1,9 +1,10 @@
 ---
 title: "Hello R Markdown"
 author: "Frida Gomam"
-date: 2015-07-23T21:13:14-05:00
-categories: ["R"]
-tags: ["R Markdown", "plot", "regression"]
+date: 2019-05-23T21:13:14-05:00
+cover: "img/hello.jpg"
+categories: ["中文"]
+tags: ["R Markdown", "网络营销", "regression"]
 ---
 
 
