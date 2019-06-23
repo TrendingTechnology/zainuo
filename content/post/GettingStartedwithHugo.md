@@ -3,8 +3,8 @@ title: "Getting Started with Hugo"
 date: "2019-01-18"
 author: "Lorem Ipsum"
 tags: "go"
-cover = "img/hello.jpg"
-description = "\"Hello, friend?\" That's lame. Maybe I should give you a name?"
+cover: "img/hello.jpg"
+description: "\"Hello, friend?\" That's lame. Maybe I should give you a name?"
 ---
 
 ## Header 2
