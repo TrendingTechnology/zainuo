@@ -5,6 +5,7 @@ date: 2019-05-23T21:13:14-05:00
 cover: "img/hello.jpg"
 categories: ["中文"]
 tags: ["R Markdown", "网络营销", "regression"]
+description: "\"Hello, friend?\" That's lame. Maybe I should give you a name?"
 ---
 
 
