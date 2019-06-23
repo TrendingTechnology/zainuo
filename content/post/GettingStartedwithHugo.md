@@ -1,9 +1,9 @@
 +++
-title = "Hello Friend"
+title = "网络营销"
 date = "2019-03-17"
 author = "Elliot"
 cover = "img/hello.jpg"
-tags = "网络营销"
+tags = "netgo"
 description = "\"Hello, friend?\" That's lame. Maybe I should give you a name?"
 +++
 
